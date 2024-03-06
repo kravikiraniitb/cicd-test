@@ -10,7 +10,7 @@ class MathFunctions:
         return a * b
     
     def divide(self, a: int, b: int) -> int:
-        return a / 2
+        return a / b
     
     """
         Generates velocity with provided distance, time and direction
